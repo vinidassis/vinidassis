@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinidassis.
+- 👋 Hi, I’m @vinieuzebio.
 - 👀 I’m interested in web coding.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on web projects.
